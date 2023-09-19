@@ -27,8 +27,8 @@ Usually SAT solvers deal with formulas in conjunctive normal form (CNF)
 - **clause**: disjuntion of literals. (A _ ¬B _ C)
 - **conjunctive normal form**: conjuction of clauses. (A _ ¬B _ C) ^ (B _ ¬A) ^ ¬C
 
-   > [!info]+ Cook's theorem(1971)
- > SAT is NP-complete
+> [!info]+ Cook's theorem(1971)
+> SAT is NP-complete
 
 
 ## 1.2 Proposicional Logic (PL)
