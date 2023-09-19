@@ -58,8 +58,8 @@ A formula $F$ is:
 3. **unsatisfiable** iff it holds under no assignment. An unsatisfiable formula is called a *contradiction*.
 4. **refutable** iff it is not valid.
 
-   > [!tip]+ Proposition
-   >  $F$ is **valid** iff $\neg F$ is **unsatisfiable**.
+> [!tip]+ Proposition
+>  $F$ is **valid** iff $\neg F$ is **unsatisfiable**.
    
 
 - $F \models G$ iff for every assignment $A$, if $A \models F$ then $A \models G$. We say $G$ is a **consequence** of $F$.

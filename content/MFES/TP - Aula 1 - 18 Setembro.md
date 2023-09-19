@@ -1,5 +1,8 @@
 ## Ficha 1
 
+> [!note]
+> As resoluções des TP pode conter erros. Se detetares um problema (e se o souberes resolver) por favor contacta-nos lol.
+
 > [!help]+ Ex 1 (Configuração de produtos)
 > Certos produtos, como é o caso dos automóveis, são altamente personalizáveis, mas podem haver dependências entre as configurações. Os clientes podem não estar cientes de todas essas dependências, e poderão escolher opções de configuração inconsistentes.
 > Como são muitas configurações e muitas dependências, podemos usar um SAT solver para verificar se o cliente escolhe opções de configuração consistentes. Para isso, podemos seguir os seguintes passos:
