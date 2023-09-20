@@ -2,7 +2,7 @@
 ## Ficha 1
 
 > [!note]
-> As resoluções dos exercícios aqui contidos pode conter erros. Se detetares um problema (e se o souberes resolver) por favor contacta-nos.
+> As resoluções dos exercícios aqui contidos podem conter erros. Se detetares um problema (e se o souberes resolver) por favor contacta-nos.
 
 
 
