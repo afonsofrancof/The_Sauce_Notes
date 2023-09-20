@@ -26,6 +26,11 @@
 >4. performance characteristics
 >   
 >>[!hint]- Resolução
->>Options 1. and 2. are less apropriate. Option 1 is a non-requirement but 
->>Option 3. is a functional requirement; and option 4. is a non-functional requirement.
+>>Option 2. is less apropriate.
+>>
+>>- Option 1 contains non-requirements but has to do with the development of the software, thus it's important to be included in the requirement phase.
+>>- Option 2 has nothing to do with the development at all and contains restrictive directives.
+>>- Option 3. is a functional requirement.
+>>- Option 4. is a non-functional requirement.
 
+>[!help]+ 
