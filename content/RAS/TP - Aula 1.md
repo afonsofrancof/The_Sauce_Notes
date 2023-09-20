@@ -14,7 +14,7 @@
 >   >[!hint]- Resolução
 >   >1. requisito funcional: define uma feature do sistema
 >   >2. *secção inicial* -> requisito funcional: garantir a integridade dos dados; *secção da encriptação simétrica* -> requisito não funcional : é um requisito tecnológico
->   >3. requisito funcional: defina uma feature do sistema ;requisito não funcional :  é um requisito de segurança
+>   >3. requisito funcional: defina uma feature do sistema; requisito não funcional :  é um requisito de segurança
 >   >4. não requisito: não define uma feature (é uma "não-feature") e não se qualifica a requisito não-funcional
 
 
@@ -34,7 +34,7 @@
 >>- Option 4. is a non-functional requirement.
 
 
->[!help]+ Exerc. 3.2 (Naveda and Seidman, 2006, pp. 33–34)
+>[!help]+ Ex. 3.2 (Naveda and Seidman, 2006, pp. 33–34)
 >Which is the type of requirements that should not be included in a requirements document?
 >
 >1. functional requirements
@@ -42,7 +42,7 @@
 >3. project requirements
 >4. performance requirements
 >   
->>[!hint] Resolução
+>>[!hint]- Resolução
 >>Option 3. should not be included.
 >>
 >>- Option 1. is essential.
@@ -50,7 +50,8 @@
 >>- Option 3. defines the circumstances around the project: it touches budget, the team members, other departments (than the development team), etc. It is too encompassing and it is not always about the development of the system. *The requirements document should be in the project documents*, not the other way around.
 >>- Option 4. is a non-functional requirement, therefore  its inclusion is necessary.
 
->[!help]+ Exerc. 3.3 (Naveda and Seidman, 2006, pp. 41–42)
+
+>[!help]+ Ex. 3.3 (Naveda and Seidman, 2006, pp. 41–42)
 >Which is the element that must be included in a requirements document?
 >
 >1. acceptance/validation procedures
@@ -58,9 +59,10 @@
 >3. quality attributes
 >4. activities to guarantee the quality
 >   
->>[!hint] Resolução
+>>[!hint]- Resolução
 >>Option 3. is a must.
->
->1. Option 1. pertains to the testing procedures.
->2. Option 2. pertains to the .
->3. Option 3. is a syno
+>>
+>>1. Option 1. pertains to the testing procedures.
+>>2. Option 2. pertains to the expected plans of the delievery of the software (versions: version alpha, version beta, etc.).
+>>3. Option 3. is a synonym for non-functional requirements.
+>>4. Option 4. is the indicated protocol that dictates the quality.
