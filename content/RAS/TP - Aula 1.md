@@ -43,11 +43,11 @@
 >4. performance requirements
 >   
 >>[!hint] Resolução
->>Option 
+>>Option 3. should not be included.
 >>
->>- Option 1 is essential.
->>- Option 2 is .
->>- Option 3.
->>- Option 4. is a non-functional requirement, therefore  its inclusion necessary in a requirements
+>>- Option 1. is essential.
+>>- Option 2. pertains to the directives that will define how the system will be maintained and managed. Although it can 
+>>- Option 3. defines the circumstances around the project: it touches budget, the team members, other departments (than the development team), etc. It is too encompassing and it is not always about the development of the as
+>>- Option 4. is a non-functional requirement, therefore  its inclusion is necessary.
 
 
