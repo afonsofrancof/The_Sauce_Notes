@@ -1,10 +1,11 @@
-#RAS
+19 Setembro 2023 - #RAS
+
 ## Contents
-1. [[T - Aula 2 - 19 Setembro 2023#Definition of Requirement|Definition of requirement]]
-2. [[T - Aula 2 - 19 Setembro 2023#Functional requirements|Functional requirements]]
-3. [[T - Aula 2 - 19 Setembro 2023#Non-functional requirements|Non-functional requirements]]
-4. [[T - Aula 2 - 19 Setembro 2023#4. User and system requirements|User and system requirements]]
-5. [[T - Aula 2 - 19 Setembro 2023#Recap|Recap]]
+1. [[RAS/T - Aula 2#Definition of Requirement|Definition of requirement]]
+2. [[RAS/T - Aula 2#Functional requirements|Functional requirements]]
+3. [[RAS/T - Aula 2#Non-functional requirements|Non-functional requirements]]
+4. [[RAS/T - Aula 2#4. User and system requirements|User and system requirements]]
+5. [[RAS/T - Aula 2#Recap|Recap]]
 
 ## 1. Definition of Requirement
 The requirements express the users necessities and restrictions that are
@@ -160,4 +161,4 @@ adopted for the user requirements.
 6. A system requirement is oriented towards the solution domain and is a detailed specification of a requirement, generally in the form of a formal model of the system.
 
 [[Próxima aula]]
-[[TP - Aula 1 - 20 Setembro|Aula prática]]
+[[RAS/TP - Aula 1|Aula prática]]

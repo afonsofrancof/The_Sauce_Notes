@@ -1,9 +1,10 @@
-#MFES
+18 Setembro 2023 -  #MFES
+
 # Conteúdo
-1. [[T - Aula 2 - 18 Setembro 2023#1. Intro|Intro]]
-	1. [[T - Aula 2 - 18 Setembro 2023#1.1 SAT|SAT]]
-	2. [[T - Aula 2 - 18 Setembro 2023#1.2 Proposicional Logic (PL)|Lógica Proposicional]]
-3. [[T - Aula 2 - 18 Setembro 2023#SAT Solvers|SAT Solvers]]
+1. [[MFES/T - Aula 2#1. Intro|Intro]]
+	1. [[MFES/T - Aula 2#1.1 SAT|SAT]]
+	2. [[MFES/T - Aula 2#1.2 Proposicional Logic (PL)|Lógica Proposicional]]
+3. [[MFES/T - Aula 2#SAT Solvers|SAT Solvers]]
 
 # 1. Intro
 *Formal modeling* - formally represent the system and its properties in the syntactic conventions that the tool understands and can process. 

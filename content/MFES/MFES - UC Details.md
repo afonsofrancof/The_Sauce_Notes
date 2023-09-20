@@ -1,8 +1,9 @@
-#MFES
+11 Setembro 2023 - #MFES
+
 ## Programa
 
 1. Lógicas para especificação formal
-	1. [[T - Aula 2 - 18 Setembro 2023#Proposicional Logic (PL)| Lógica Proposicional (PL)]]
+	1. [[MFES/T - Aula 2#Proposicional Logic (PL)| Lógica Proposicional (PL)]]
 	2. Lógica de Primeira Ordem (FOL)
 	3. Lógica relacional (RL)
 	4. Lógica temporal linear (LTL)

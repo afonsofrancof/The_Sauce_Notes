@@ -1,4 +1,4 @@
-#RAS 
+12 Setembro 2023 - #RAS 
 
 # Definition of Software Engineering
 Application of a systematic, disciplined and quantifiable approach to the analysis, design , implementation and exploitation of software systems, resorting to knowledge, principles, techniques and methods that originate from the empirical-scientific advances, in an ethical context to satisfy the necessities of human development.
@@ -31,4 +31,4 @@ Application of a systematic, disciplined and quantifiable approach to the analys
 - Final Mark = min(0.6×max(test, project)+0.4×min(test, project), test+2.5)
 
 
-[[T - Aula 2 - 19 Setembro 2023|Próxima aula]]
+[[RAS/T - Aula 2|Próxima aula]]
