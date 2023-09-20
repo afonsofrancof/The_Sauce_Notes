@@ -86,15 +86,18 @@
 >[!help]+ Ex. 3.5
 >Consider the following requirement: *The system should be easy to use for trained persons.* 
 >
->Classify this requirement with respect to its type. Is this requirement verifiable? Justify.
->
+>Classify this requirement with respect to its type. 
 >1. Functional
 >2. Non-functional
+>
+>Is this requirement verifiable? Justify.
 >   
 >>[!hint]- Resolução
->>Option 1., since it defines no feature.
+>>Option 2., since it defines no feature.
 >>
 >>In terms of verifiability:
->>What is a trained person? That is debatable. Is it a person with 1h of experience, 3h, 5h? This needs to be defined.
->>Also, what is easy? Is it defined by the number of errors this person commits (commit less than 3 errors in this determined feature - this is considered "easy")?
+>>What is a trained person? That is debatable. Is it a person with 1h of experience, 3h, 5h? This needs to be defined. Also, what is easy? Is it defined by the number of errors this person commits (commit less than 3 errors in this determined feature - this is considered "easy")? Use correctly 80% of the software and it's "easy" and intuitive for the tester? This also needs defining.
 >
+
+
+
