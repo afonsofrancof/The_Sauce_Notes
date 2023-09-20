@@ -80,4 +80,21 @@
 >>Option 3. is the best justification.
 >>
 >>Non-functional requirements are, colloquially, an enumeration of restrictions to the functional requirements being defined by a developing system.
->>Non-functional requirements are the buffer of quality of the product - these cannot be defined later. Their determination may take even more time than the definition of functional requirements since, sometimes, they can be even more implicit than their counterpart, the functional requirements. Their determination should also be independent of resources or budgets; otherwise, there can/will be consequences on the quality of the software.
+>>Non-functional requirements are the buffer of quality of the product - these cannot be defined later. Their determination may take even more time than the definition of functional requirements since, sometimes, they can be even more implicit than their counterpart. Their determination should also be independent of resources or budgets; otherwise, there can/will be consequences on the quality of the software.
+
+
+>[!help]+ Ex. 3.5
+>Consider the following requirement: *The system should be easy to use for trained persons.* 
+>
+>Classify this requirement with respect to its type. Is this requirement verifiable? Justify.
+>
+>1. Functional
+>2. Non-functional
+>   
+>>[!hint]- Resolução
+>>Option 1., since it defines no feature.
+>>
+>>In terms of verifiability:
+>>What is a trained person? That is debatable. Is it a person with 1h of experience, 3h, 5h? This needs to be defined.
+>>Also, what is easy? Is it defined by the number of errors this person commits (commit less than 3 errors in this determined feature - this is considered "easy")?
+>
