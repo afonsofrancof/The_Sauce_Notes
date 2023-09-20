@@ -13,7 +13,7 @@
 >   
 >   >[!hint]- Resolução
 >   >1. requisito funcional: define uma feature do sistema
->   >2. requisito não funcional : é um requisito tecnológico
->   >3. requisito não funcional :  é um requisito de segurança
->   >4. requisito funcional : não permita fazer alterações a um processo (é uma feature)
+>   >2. *secção inicial* -> requisito funcional: garantir a integridade dos dados; *secção da encriptação simétrica* -> requisito não funcional : é um requisito tecnológico
+>   >3. requisito funcional: defina uma feature do sistema ;requisito não funcional :  é um requisito de segurança
+>   >4. requisito funcional : não permita fazer alterações a um processo (é uma feature); 
 
