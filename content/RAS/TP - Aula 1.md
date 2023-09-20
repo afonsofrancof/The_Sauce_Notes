@@ -44,5 +44,10 @@
 >   
 >>[!hint] Resolução
 >>Option 
+>>
+>>- Option 1 is essential.
+>>- Option 2 is .
+>>- Option 3.
+>>- Option 4. is a non-functional requirement, therefore  its inclusion necessary in a requirements
 
 
