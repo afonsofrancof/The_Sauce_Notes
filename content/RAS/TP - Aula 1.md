@@ -99,5 +99,3 @@
 >>What is a trained person? That is debatable. Is it a person with 1h of experience, 3h, 5h? This needs to be defined. Also, what is easy? Is it defined by the number of errors this person commits (commit less than 3 errors in this determined feature - this is considered "easy")? Use correctly 80% of the software and it's "easy" and intuitive for the tester? This also needs defining.
 >
 
-
-

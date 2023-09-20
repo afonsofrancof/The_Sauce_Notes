@@ -6,7 +6,7 @@ Application of a systematic, disciplined and quantifiable approach to the analys
 # Team
 - João M. Fernandes
 - André L. Ferreira    
-- Manuel Alves    
+- Manuel Alves
 - Paulo Rafael Sousa
 
 # Evaluation
