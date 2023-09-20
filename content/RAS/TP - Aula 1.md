@@ -63,6 +63,27 @@
 >>Option 3. is a must.
 >>
 >>1. Option 1. pertains to the testing procedures.
->>2. Option 2. pertains to the expected plans of the delievery of the software (versions: version alpha, version beta, etc.).
+>>2. Option 2. pertains to the expected plans of the delivery of the software (aka versions: version alpha, version beta,...).
 >>3. Option 3. is a synonym for non-functional requirements.
->>4. Option 4. is the indicated protocol that dictates the quality.
+>>4. Option 4. means the indicated protocol which regulates the quality of the product.
+
+
+>[!help]+ Ex. 3.4 (Naveda and Seidman, 2006, pp. 57–58)
+>Which of the following arguments is the most solid/strong to justify the specification of the non-functional requirements of a system?
+>
+>1. acceptance/validation procedures
+>2. delivery plans
+>3. quality attributes
+>4. activities to guarantee the quality
+>   
+>>[!hint]- Resolução
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>
