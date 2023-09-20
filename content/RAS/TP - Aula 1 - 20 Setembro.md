@@ -26,4 +26,6 @@
 >4. performance characteristics
 >   
 >>[!hint]- Resolução
->>Options 1. and 2. (in this order of importance) are less apropriate
+>>Options 1. and 2. are less apropriate. Option 1 is a non-requirement but 
+>>Option 3. is a functional requirement; and option 4. is a non-functional requirement.
+
