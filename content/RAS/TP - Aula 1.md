@@ -77,15 +77,7 @@
 >4. The non-functional requirements take less time to specify than the functional requirements.
 >   
 >>[!hint]- Resolução
->>Option 3. is the best justification..
+>>Option 3. is the best justification.
 >>
->>Non-functional requirements appear to be an enumeration of restrictions to the functional requirements being defined by a developing system. Non-functional requirements are the buffer of quality of the product - these cannot be defined later. Their determination may take even more time 
->>
->>
->>
->>
->>
->>
->>
->>
->
+>>Non-functional requirements are, colloquially, an enumeration of restrictions to the functional requirements being defined by a developing system.
+>>Non-functional requirements are the buffer of quality of the product - these cannot be defined later. Their determination may take even more time than the definition of functional requirements since, sometimes, they can be even more implicit than their counterpart, the functional requirements. Their determination should also be independent of resources or budgets; otherwise, there can/will be consequences on the quality of the software.
