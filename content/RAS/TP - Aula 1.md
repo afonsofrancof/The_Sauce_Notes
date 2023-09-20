@@ -46,8 +46,21 @@
 >>Option 3. should not be included.
 >>
 >>- Option 1. is essential.
->>- Option 2. pertains to the directives that will define how the system will be maintained and managed. Although it can 
->>- Option 3. defines the circumstances around the project: it touches budget, the team members, other departments (than the development team), etc. It is too encompassing and it is not always about the development of the as
+>>- Option 2. pertains to the directives that will define how the system will be maintained and managed in the future.
+>>- Option 3. defines the circumstances around the project: it touches budget, the team members, other departments (than the development team), etc. It is too encompassing and it is not always about the development of the system. *The requirements document should be in the project documents*, not the other way around.
 >>- Option 4. is a non-functional requirement, therefore  its inclusion is necessary.
 
-
+>[!help]+ Exerc. 3.3 (Naveda and Seidman, 2006, pp. 41–42)
+>Which is the element that must be included in a requirements document?
+>
+>1. acceptance/validation procedures
+>2. delivery plans
+>3. quality attributes
+>4. activities to guarantee the quality
+>   
+>>[!hint] Resolução
+>>Option 3. is a must.
+>
+>1. Option 1. pertains to the testing procedures.
+>2. Option 2. pertains to the .
+>3. Option 3. is a syno
