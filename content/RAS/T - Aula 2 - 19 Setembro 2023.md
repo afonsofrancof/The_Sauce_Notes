@@ -158,3 +158,6 @@ adopted for the user requirements.
 4. The requirements can be designated as either user or system requirements.
 5. User requirements are related to the problem domain and are usually expressed in a natural language.
 6. A system requirement is oriented towards the solution domain and is a detailed specification of a requirement, generally in the form of a formal model of the system.
+
+[[Próxima aula]]
+[[TP - Aula 1 - 20 Setembro|Aula prática]]

@@ -17,3 +17,4 @@
 >   >3. requisito funcional: defina uma feature do sistema ;requisito não funcional :  é um requisito de segurança
 >   >4. não requisito: não define uma feature (é uma "não-feature") e não se qualifica a requisito não-funcional
 
+
