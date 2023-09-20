@@ -1,3 +1,4 @@
+#CP
 ## Conteúdo
 - cache em arquiteturas multicore
 - code profiling
