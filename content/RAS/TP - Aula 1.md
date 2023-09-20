@@ -71,13 +71,15 @@
 >[!help]+ Ex. 3.4 (Naveda and Seidman, 2006, pp. 57–58)
 >Which of the following arguments is the most solid/strong to justify the specification of the non-functional requirements of a system?
 >
->1. acceptance/validation procedures
->2. delivery plans
->3. quality attributes
->4. activities to guarantee the quality
+>1. The non-functional requirements should only be considered in development contexts subject to tight restrictions (resources, budget, or deadlines).
+>2. The non-functional requirements are only external characteristics of the system and can be obtained later.
+>3. If a functionality is present in the system, the non-functional requirements determine how usable and useful it is.
+>4. The non-functional requirements take less time to specify than the functional requirements.
 >   
 >>[!hint]- Resolução
+>>Option 3. is the best justification..
 >>
+>>Non-functional requirements appear to be an enumeration of restrictions to the functional requirements being defined by a developing system. Non-functional requirements are the buffer of quality of the product - these cannot be defined later. Their determination may take even more time 
 >>
 >>
 >>
