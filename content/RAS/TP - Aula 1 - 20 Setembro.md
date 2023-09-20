@@ -26,11 +26,23 @@
 >4. performance characteristics
 >   
 >>[!hint]- Resolução
->>Option 2. is less apropriate.
+>>Option 2 is the less appropriate.
 >>
 >>- Option 1 contains non-requirements but has to do with the development of the software, thus it's important to be included in the requirement phase.
 >>- Option 2 has nothing to do with the development at all and contains restrictive directives.
 >>- Option 3. is a functional requirement.
 >>- Option 4. is a non-functional requirement.
 
->[!help]+ 
+
+>[!help]+ Exerc. 3.2 (Naveda and Seidman, 2006, pp. 33–34)
+>Which is the type of requirements that should not be included in a requirements document?
+>
+>1. functional requirements
+>2. maintenance requirements
+>3. project requirements
+>4. performance requirements
+>   
+>>[!hint] Resolução
+>>Option 
+
+
