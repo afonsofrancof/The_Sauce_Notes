@@ -58,6 +58,18 @@ In a dataset, correlations >0.5 are considerable.
 ## Practical session of the class: miniconda
 IDEs: PyCharm, VS Code, (Jupyter - not recommended)
 
+Depois de instalar o miniconda, correr os seguintes comandos:
+- conda create --name daaEnv python=3.10
+- conda activate daaEnv
+- python --version
+- conda install pandas
+- conda install xlrd
+- conda install xlwt
+- conda install matplotlib
+- conda install seaborn
+- conda install scikit-learn
+- conda install jupyterlab
+- conda list
 
 ## Resource links
 - https://en.wikipedia.org/wiki/Average
