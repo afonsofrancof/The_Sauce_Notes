@@ -161,4 +161,4 @@ adopted for the user requirements.
 6. A system requirement is oriented towards the solution domain and is a detailed specification of a requirement, generally in the form of a formal model of the system.
 
 [[Próxima aula]]
-[[RAS/TP - Aula 1|Aula prática]]
+[[RAS/PL - Aula 1|Aula prática]]
