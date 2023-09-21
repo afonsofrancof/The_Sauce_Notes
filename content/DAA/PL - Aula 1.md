@@ -23,6 +23,7 @@
 
 
 ## Mean, Median & Mode
+
 >[!hint]+
 >A **mean** in math is the average of a data set, found by adding all numbers together and then dividing the sum of the numbers by the number of numbers.
 
@@ -52,6 +53,10 @@ Covariance is hard to interpret, thus correlation is used instead.
 In a dataset, correlations >0.5 are considerable.
 
 >[!caution] Correlation does not mean causation!
+
+
+## Practical session of the class: miniconda
+IDEs: PyCharm, VS Code, (Jupyter - not recommended)
 
 
 ## Resource links
