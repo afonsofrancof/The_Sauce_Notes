@@ -21,4 +21,22 @@
 	3. Aprendizagem por reforço
 	4. Redes Neuronais
 	5. Conjunto de Modelos
-	6. Computação Natural (evolucionária, intelig^)
+	6. Computação Natural (evolucionária, inteligência de enxames)
+
+
+## Team
+- Vitor Alves: valves@di.uminho.pt
+- César Analide: analide@di.uminho.pt
+- Filipa Ferraz: D7266@di.uminho.pt
+- Bruno Fernandes: bruno.fernandes@algoritmi.uminho.pt
+- Dalila Durães: dad@di.uminho.pt
+
+## Avaliação
+- **40%** - Prova escrita
+	- Prova: 14 de Dezembro
+	- Recurso: 18 de Janeiro
+- **60%** - Trabalho de grupo
+	- 1ª fase: 23 de Novembro
+	- fase final: 11 de Janeiro
+	- avaliação pelos pares: 27 de Janeiro 2023
+
