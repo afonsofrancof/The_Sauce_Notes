@@ -34,7 +34,6 @@
 
 
 ## Percentiles
-
   
 There are 3 important percentiles:
 - 50% - median
@@ -44,15 +43,15 @@ There are 3 important percentiles:
 >[!note]+
 >These 3 percentiles allow the creation of box plot graphs. These specific graphs allow the discovery and presentation of outliers.
 
-
 ## Covariance & Correlation
 
 >[!hint]+
 >**Covariance** measures the direction of a relationship between two variables, while **correlation** measures the strength of that relationship.
 
 Covariance is hard to interpret, thus correlation is used instead.
+In a dataset, correlations >0.5 are considerable.
 
-
+>[!caution] Correlation does not mean causation!
 
 
 ## Resource links
