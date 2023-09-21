@@ -36,6 +36,20 @@
 
 ## Percentiles
 - https://en.wikipedia.org/wiki/Percentile
-50% - medi
+  
+There are 3 important percentiles:
+- 50% - median
+- 25% - 1st percentile
+- 75% - 3rd percentile
+
+>[!note]+
+>These 3 percentiles allow the creation of box plot graphs. These specific graphs allow the discovery and presentation of outliers.
 
 
+## Covariance & Correlation
+
+>[!hint]+
+>Covariance measures the direction of a relationship between two variables, while correlation measures the strength of that relationship.
+
+- https://en.wikipedia.org/wiki/Covariance
+- 
