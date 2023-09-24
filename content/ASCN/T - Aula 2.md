@@ -75,9 +75,12 @@
 	- E.g. Kafka
 
 ### 6. Multi-tier
-- Architecture: [[bus.excalidraw]]
-- The bus routes messages.
-- Participants publish and consume messages to/from the bus.
-- Decouples producers from consumers.
-- **Flexibility!**
-	- E.g. Kafka
+- Architecture: [[multi-tier.excalidraw]]
+- Each server acts as a client of the next tier.
+- Allows independent deployment and scaling of different functionality.
+- E.g. AS + DBMS:
+	- “protocol A” == Web (e.g.)
+	- “Stub B” == Database Driver!
+	- “protocol B” uses SQL
+#### 6.1 State in multi-tier
+- 
