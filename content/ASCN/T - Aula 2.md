@@ -7,3 +7,4 @@
 
 ## How to distribute?
 ### 1. Monolythic system
+Architecture: [[Monolithic system.excalidraw]]
