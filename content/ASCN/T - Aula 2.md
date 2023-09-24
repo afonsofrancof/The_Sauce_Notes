@@ -42,3 +42,10 @@
 
 ## Distributed architectures
 ### 1. Client-server
+- Architecture: [[client-server.excalidraw]]
+- Functionality and data are in the server.
+- A stub runs embedded in the client.
+- The stub is part of the server software package
+- E.g., the Web (“protocol” is HTTP)
+
+### 2. Proxy Server
