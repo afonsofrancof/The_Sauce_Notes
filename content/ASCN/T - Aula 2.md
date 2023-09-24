@@ -10,7 +10,7 @@
 ### 1. Monolythic system
 - Architecture: [[Monolithic system.excalidraw]]
 - Multiple services for multiple targets in the same server
-## 2. Distributed system
+## 2. Distributed systems
 - Main distribution concerns:
 	1. Replication
 	2. Partitioning
@@ -31,4 +31,14 @@
 - Architecture: [[SOA.excalidraw]]
 - Addresses scale-out and modularity.
 - Example: micro-services.
+#### 2.3.1 Microservices
+- Each service implements specific functionality.
+- Services can scale independently.
+- Decomposition may be troublesome: how micro is micro?
+- Consistency.
+- Complex deployment and testing 
 
+
+
+## Distributed architectures
+### 1. Client-server
