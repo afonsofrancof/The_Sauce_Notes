@@ -60,15 +60,16 @@
 	- E.g. HDFS
 
 ### 4. Server Group
-- Architecture: [[server-group.excalidraw 1]]
+- Architecture: [[server-group.excalidraw]]
 - All servers can process requests.
 - Coordination may be necessary.
 - Resiliency!
 	- E.g. ZooKeeper
 
 ### 5. Bus
-- Architecture: [[server-group.excalidraw 1]]
-- All servers can process requests.
-- Coordination may be necessary.
-- Resiliency!
-	- E.g. ZooKeeper
+- Architecture: [[server-group.excalidraw]]
+- The bus routes messages.
+- Participants publish and consume messages to/from the bus.
+- Decouples producers from consumers.
+- **Flexibility!**
+	- E.g. Kafka
