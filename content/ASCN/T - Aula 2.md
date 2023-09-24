@@ -46,6 +46,11 @@
 - Functionality and data are in the server.
 - A stub runs embedded in the client.
 - The stub is part of the server software package
-- E.g., the Web (“protocol” is HTTP)
+	- E.g., the Web (“protocol” is HTTP)
 
 ### 2. Proxy Server
+- Architecture: [[proxy.excalidraw]]
+- Multiple servers can be used transparently.
+- The proxy is a performance and availability bottleneck.
+	- E.g. MongoDB
+
