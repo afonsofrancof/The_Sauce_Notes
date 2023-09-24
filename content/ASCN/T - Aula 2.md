@@ -27,4 +27,8 @@
 - A server is split horizontally (Sharding).
 - Addresses scale-out.
 - Can be applied to computation, data, ...
-- 
+### 2.3 SOA - Service-Oriented Architecture
+- Architecture: [[SOA.excalidraw]]
+- Addresses scale-out and modularity.
+- Example: micro-services.
+
