@@ -67,7 +67,15 @@
 	- E.g. ZooKeeper
 
 ### 5. Bus
-- Architecture: [[server-group.excalidraw]]
+- Architecture: [[bus.excalidraw]]
+- The bus routes messages.
+- Participants publish and consume messages to/from the bus.
+- Decouples producers from consumers.
+- **Flexibility!**
+	- E.g. Kafka
+
+### 6. Multi-tier
+- Architecture: [[bus.excalidraw]]
 - The bus routes messages.
 - Participants publish and consume messages to/from the bus.
 - Decouples producers from consumers.
