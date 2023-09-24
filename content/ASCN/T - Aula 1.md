@@ -1,15 +1,15 @@
 11 Setembro 2023 - #ASCN
 
 ## Complex Structures: Challenges
-### Deployment
+### 1. Deployment
 - Multiple components with specific requirements
 - Heterogeneous hardware, software and services (e.g., cloud computing services
 
-### Management + Configuration
+### 2. Management + Configuration
 - Specific to each software/hardware component
 - Optimal configurations will change over time...
 
-### Monitoring + Benchmarking
+### 3. Monitoring + Benchmarking
 - Finding anomalies (performance, failures, ...) in complex applications and infrastructures 
 
 
@@ -63,3 +63,22 @@
 	- Benchmarking
 
 
+
+
+## Evaluation
+- **50%** - project
+	- min: 10 values
+	- checkpoint 1: 17/11/2023
+	- checkpoint 2: 07/12/2023
+	- final report: 19/12/2023
+	- presentation: 08-12/01/2024 (week)
+- **50%** - written exam
+	- min: 8 values
+	- 12/12/2023
+
+
+## Team
+- João Paulo - jtpaulo@di.uminho.pt
+- Francisco Maia - fmaia@di.uminho.pt
+- Tânia Esteves - d12729@di.uminho.pt
+- Cláudia Brito – d13235@di.uminho.pt
