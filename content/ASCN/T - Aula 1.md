@@ -33,7 +33,7 @@
 	- Subjective monitoring
 
 ## Infrastructure as Code
-Include infrastructure scripts in agile process!
+**Include infrastructure scripts in agile process!**
 
 - Hardware provisioning with scripts
 	- In contrast to: physically unboxing and plugging
@@ -41,3 +41,25 @@ Include infrastructure scripts in agile process!
 	- In contrast to: clicking through setup wizards
 - Configuration with scripts
 	- In contrast to: clicking through control panels
+
+
+## DevOps
+**Supports fast, frequent, small changes!**
+
+- Development and deployment are self-documenting and versioned
+- Deployment is reproducible and repeatable
+- Servers are disposable and consistent
+
+## Roadmap
+- Distributed systems architectures & deployment
+	- Common distribution patterns
+	- Reliability and scalability
+	- Automatic provision and configuration
+- Cloud computing
+	- Services and abstractions
+	- Infrastructure management (virtualization, storage, ...)
+- Monitoring and evaluation
+	- Monitoring frameworks and metrics
+	- Benchmarking
+
+
