@@ -10,4 +10,34 @@
 - Optimal configurations will change over time...
 
 ### Monitoring + Benchmarking
-- 
+- Finding anomalies (performance, failures, ...) in complex applications and infrastructures 
+
+
+## Agile Development
+**Quick reaction to frequent small changes!**
+
+- Rests on formal (versioned) source, binary and documentation repositories
+	- Unambiguous current state
+	- Ability to back track
+- Automated build and test
+	- Fast feedback
+- Fast iterations
+
+## Operations
+- Manual provisioning and configuration
+- Informal communication between qualification and production stages
+- Consequences:
+	- Not repeatable or reproducible
+	- Configuration drift
+	- “Snowflake” servers (don't even look at it…)
+	- Subjective monitoring
+
+## Infrastructure as Code
+Include infrastructure scripts in agile process!
+
+- Hardware provisioning with scripts
+	- In contrast to: physically unboxing and plugging
+- Software provisioning with scripts
+	- In contrast to: clicking through setup wizards
+- Configuration with scripts
+	- In contrast to: clicking through control panels
