@@ -1,4 +1,4 @@
-20 Setembro 2023 - #RAS
+🌫 20 Setembro 2023 - #RAS
 
 > [!note]
 > As resoluções dos exercícios aqui contidos podem conter erros. Se detetares um problema (e se o souberes resolver) por favor contacta-nos.

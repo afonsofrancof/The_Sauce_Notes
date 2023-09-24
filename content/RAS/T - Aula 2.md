@@ -1,4 +1,4 @@
-19 Setembro 2023 - #RAS
+🌫 19 Setembro 2023 - #RAS
 
 ## Contents
 1. [[RAS/T - Aula 2#Definition of Requirement|Definition of requirement]]
