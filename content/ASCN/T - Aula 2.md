@@ -54,9 +54,21 @@
 - The proxy is a performance and availability bottleneck.
 	- E.g. MongoDB
 
-
 ### 3. Master Server
-- Architecture: [[mas]]
-- Proxy functions split between stub and master server
-- The proxy is a performance and availability bottleneck.
-	- E.g. MongoDB
+- Architecture: [[master.excalidraw]]
+- Scale out!
+	- E.g. HDFS
+
+### 4. Server Group
+- Architecture: [[server-group.excalidraw 1]]
+- All servers can process requests.
+- Coordination may be necessary.
+- Resiliency!
+	- E.g. ZooKeeper
+
+### 5. Bus
+- Architecture: [[server-group.excalidraw 1]]
+- All servers can process requests.
+- Coordination may be necessary.
+- Resiliency!
+	- E.g. ZooKeeper
