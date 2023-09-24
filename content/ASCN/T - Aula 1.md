@@ -84,4 +84,4 @@
 - Cláudia Brito – d13235@di.uminho.pt
 
 
-[[Next class|T - Aula 2]]
+[[ASCN/T - Aula 2|Next class: T - Aula 2]]

@@ -6,3 +6,4 @@
 - Dependability
 
 ## How to distribute?
+### 1. Monolythic system
