@@ -1,4 +1,4 @@
-18 Setembro 2023 - #ASCN
+🌫 18 Setembro 2023 - #ASCN
 
 ## Why distributed systems?
 - Modularity, decoupling different concerns.
@@ -83,4 +83,11 @@
 	- “Stub B” == Database Driver!
 	- “protocol B” uses SQL
 #### 6.1 State in multi-tier
-- 
+- Persistent state is harder to replicate and shard.
+- Computation is easier to replicate and shard.
+- No state in upper tiers:
+	- Web browser
+- Transient / cached state in middle tiers:
+	- Application server
+- Persistent state at lower tiers:
+	- Database

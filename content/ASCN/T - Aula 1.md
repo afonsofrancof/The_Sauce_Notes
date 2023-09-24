@@ -1,4 +1,4 @@
-11 Setembro 2023 - #ASCN
+🌫 11 Setembro 2023 - #ASCN
 
 ## Complex Structures: Challenges
 ### 1. Deployment
