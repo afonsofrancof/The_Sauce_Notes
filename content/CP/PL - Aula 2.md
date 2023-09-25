@@ -8,14 +8,15 @@
 ## Ex. 1
 a)
 > [!help]- What is the complexity of the MM (i.e., in big O notation, where N is the problem size and NxN is the matrix size)?
+> O()
 
 >[!hint]- Big O Notation Cheat Sheet
 >- Constant: O(1)
-- Linear time: O(n)
-- Logarithmic time: O(n log n)
-- Quadratic time: O(n^2)
-- Exponential time: O(2^n)
-- Factorial time: O(n!)
+>- Linear time: O(n)
+>- Logarithmic time: O(n log n)
+>- Quadratic time: O(n^2)
+>- Exponential time: O(2^n)
+>- Factorial time: O(n!)
 
 >[!help]- What increase in execution time is expected when the N doubles?
 
