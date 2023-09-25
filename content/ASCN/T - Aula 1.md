@@ -1,29 +1,24 @@
 🌫 11 Setembro 2023 - #ASCN
 
-## Complex Structures: Challenges
-### 1. Deployment
+- ## Complex Structures: Challenges
+- ### 1. Deployment
 - Multiple components with specific requirements
 - Heterogeneous hardware, software and services (e.g., cloud computing services
-
-### 2. Management + Configuration
+- ### 2. Management + Configuration
 - Specific to each software/hardware component
 - Optimal configurations will change over time...
-
-### 3. Monitoring + Benchmarking
-- Finding anomalies (performance, failures, ...) in complex applications and infrastructures 
-
-
-## Agile Development
-**Quick reaction to frequent small changes!**
-
+- ### 3. Monitoring + Benchmarking
+  id:: 65120d55-d904-4ef5-bbbb-647bf02e05c9
+- Finding anomalies (performance, failures, ...) in complex applications and infrastructures
+- ## Agile Development
+  **Quick reaction to frequent small changes!**
 - Rests on formal (versioned) source, binary and documentation repositories
 	- Unambiguous current state
 	- Ability to back track
 - Automated build and test
 	- Fast feedback
 - Fast iterations
-
-## Operations
+- ## Operations
 - Manual provisioning and configuration
 - Informal communication between qualification and production stages
 - Consequences:
@@ -31,26 +26,20 @@
 	- Configuration drift
 	- “Snowflake” servers (don't even look at it…)
 	- Subjective monitoring
-
-## Infrastructure as Code
-**Include infrastructure scripts in agile process!**
-
+- ## Infrastructure as Code
+  **Include infrastructure scripts in agile process!**
 - Hardware provisioning with scripts
 	- In contrast to: physically unboxing and plugging
 - Software provisioning with scripts
 	- In contrast to: clicking through setup wizards
 - Configuration with scripts
 	- In contrast to: clicking through control panels
-
-
-## DevOps
-**Supports fast, frequent, small changes!**
-
+- ## DevOps
+  **Supports fast, frequent, small changes!**
 - Development and deployment are self-documenting and versioned
 - Deployment is reproducible and repeatable
 - Servers are disposable and consistent
-
-## Roadmap
+- ## Roadmap
 - Distributed systems architectures & deployment
 	- Common distribution patterns
 	- Reliability and scalability
@@ -61,11 +50,7 @@
 - Monitoring and evaluation
 	- Monitoring frameworks and metrics
 	- Benchmarking
-
-
-
-
-## Evaluation
+- ## Evaluation
 - **50%** - project
 	- min: 10 values
 	- checkpoint 1: 17/11/2023
@@ -75,13 +60,11 @@
 - **50%** - written exam
 	- min: 8 values
 	- 12/12/2023
-
-
-## Team
+- ## Team
 - João Paulo - jtpaulo@di.uminho.pt
 - Francisco Maia - fmaia@di.uminho.pt
 - Tânia Esteves - d12729@di.uminho.pt
 - Cláudia Brito – d13235@di.uminho.pt
-
-
-[[ASCN/T - Aula 2|Next class: T - Aula 2]]
+  
+  
+  [[ASCN/T - Aula 2|Next class: T - Aula 2]]
