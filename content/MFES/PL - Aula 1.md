@@ -87,7 +87,8 @@
 >    
 > Escreve um conjunto de fórumlas proposicionais adequado à modelação destas regras.
 > 
-> >[!tip]- Resolução (por passos)
+> >[!tip]- Resolução
+> >
 > >**Cada pessoa ocupa só um único gabinete.**
 > > 1. para cada pessoa p = 1..4
 > > 2. pelo menos um gabinete:    $x_{p1} \lor x_{p2} \lor x_{p3}$
