@@ -1,4 +1,4 @@
-🌫 18 Setembro 2023 -  #MFES
+ 🌫 18 Setembro 2023 -  #MFES
 
 ## Ficha 1
 
@@ -88,9 +88,4 @@
 > Escreve um conjunto de fórumlas proposicionais adequado à modelação destas regras.
 > 
 > >[!tip]- Resolução
-> >
-> >**Cada pessoa ocupa só um único gabinete.**
-> > 1. para cada pessoa p = 1..4
-> > 2. pelo menos um gabinete:    $x_{p1} \lor x_{p2} \lor x_{p3}$
-> > 3. no máximo 1 gabinete:   $x_{p1} \implies \neg x_{p2} \land x_{p3} \equiv x_{p1} \implies \neg (x_{p2} \lor x_{p3} ) \equiv x_{p2} \implies \neg x_{p3}$
-> > 4. 
+> > [[Ficha1_ex2.excalidraw]]
